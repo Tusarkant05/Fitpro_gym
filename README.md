@@ -51,3 +51,25 @@ Here’s an overview of the database structure:
 - **check_in_time**: Check-in time of the visit
 - **check_out_time**: Check-out time of the visit
 
+- ## Business Problems
+
+The following queries were created to solve specific business questions. Each query is designed to provide insights based on gym membership and visit data.
+
+1. Retrieve the **name** and **membership_type** of female members.
+2. Find members who have a **Monthly membership** and joined after **2023-11-01**.
+3. List the **name** and **status** of active members over **25**.
+4. Get details of **visits** on a specific date (**2024-01-01**).
+5. List members with a **Quarterly membership** aged between **20 and 30**.
+6. Find the total number visits made by each member.
+7. Retrive the count of members by membership_type (e.g., how many monthly, weekly, and quartely members they are).
+8. Get the average age of members.
+9. Find the total number of visits for each visit_date.
+10. Retrive the number of members with each status.
+11. Retrive the top 3 members who have made the most visits, order by desc.
+12. find the number of members with a monthly membership, who are active. Retrive the top 2.
+13. Get the total number of visits for each member who has more than 2 visits, ordered by total_visits and display only the first 5 members.
+14. Retrive the number of membrs who have joined in 2023, where the total number of members in each group is more than 100.
+15. 
+
+
+
