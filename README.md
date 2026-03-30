@@ -1,5 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/76b08868-01d4-4ba4-bb34-f915d8f91108" />---
-
+![Project Image Placeholder](https://github.com/najirh/firpro-p1/blob/main/Fitpro.png)
 # Fitpro_gym_sql_project
 
 
