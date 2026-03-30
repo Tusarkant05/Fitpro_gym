@@ -1,4 +1,5 @@
-![Project Image Placeholder](https://github.com/najirh/firpro-p1/blob/main/Fitpro.png)
+![Project Image Placeholder](https://github.com/D:\90 Days DA\SQL Bootcamp\FITPRO GYM project-1)
+D:\90 Days DA\SQL Bootcamp\FITPRO GYM project-1
 # Fitpro_gym_sql_project
 
 
