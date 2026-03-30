@@ -1,5 +1,5 @@
-![Project Image Placeholder](https://github.com/D:\90 Days DA\SQL Bootcamp\FITPRO GYM project-1)
-D:\90 Days DA\SQL Bootcamp\FITPRO GYM project-1
+![D:\90 Days DA\SQL Bootcamp\FITPRO GYM project-1](https://github.com/Tusarkant05/Fitpro_gym/edit/main/README.md)
+
 # Fitpro_gym_sql_project
 
 
